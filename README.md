@@ -1,4 +1,4 @@
-# 🌸 Pastella Wallet Generator
+# 🌸 Pastella Wallet Generator HTML
 
 A client-side wallet generator for the **[Pastella (PAS)](https://pastella.org)** cryptocurrency — runs entirely in your browser with no data sent to any server.
 
